@@ -1,0 +1,23 @@
+{
+  "name": "nft-whitelist-merkle-root",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snoopydev20/nft-whitelist-merkle-root.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snoopydev20/nft-whitelist-merkle-root/issues"
+  },
+  "homepage": "https://github.com/snoopydev20/nft-whitelist-merkle-root#readme",
+  "dependencies": {
+    "keccak256": "^1.0.6",
+    "merkletreejs": "^0.2.32"
+  }
+}
